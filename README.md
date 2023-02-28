@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Gage, a student at Texas A&M. I love all things computers, games, and sound.
+I'm Gage, a student at Texas A&M. I love all things computers, games, and music/sound design.
 <!--
 **GageHoweTamu/GageHoweTamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
