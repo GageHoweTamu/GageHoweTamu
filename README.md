@@ -9,9 +9,7 @@ Multiple learning-focused browser extension projects using JavaScript and Tamper
 
 This summer:
 
-Taking C++ and Calculus 2 at Lone Star College
-Working
-Learning JUCE for vst plugins and building a multiband saturator or something
+Taking C++ and Calculus 2 at Lone Star College, Working at iCode, Learning JUCE for vst plugins and building a multiband saturator or something
 
 <!--
 **GageHoweTamu/GageHoweTamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
