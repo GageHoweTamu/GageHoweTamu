@@ -13,7 +13,7 @@ This summer:
 * Learning C++ and taking Calculus 2 at Lone Star College
 * Working at iCode
 * Learning JUCE for vst plugins and building a multiband saturator or something
-* Learning the OpenAI APIs and integrating them into one simple web service
+* Learning more about the Hugging Face APIs
 
 <!--
 **GageHoweTamu/GageHoweTamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
