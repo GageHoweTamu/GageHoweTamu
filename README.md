@@ -6,6 +6,7 @@ Things I'm working on:
 * AusSim, a game in-progress with the Texas A&M Game Developers organization.
 * The Brute VR, a game in-progress with the Aggie Coding Club.
 * Multiple learning-focused browser extension projects using JavaScript and TamperMonkey with the Aggie Coding Club.
+* Creating the website for a student organization in React and Vite
 
 This summer:
 
