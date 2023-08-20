@@ -3,17 +3,21 @@ I'm Gage, a student at Texas A&M. I love all things computers, games, and music/
 
 Things I'm working on:
 
+Spring 2023:
 * AusSim, a game in-progress with the Texas A&M Game Developers organization.
 * The Brute VR, a game in-progress with the Aggie Coding Club.
 * Multiple learning-focused browser extension projects using JavaScript and TamperMonkey with the Aggie Coding Club.
 * Creating the website for a student organization in React and Vite
 
-This summer:
-
+Summer 2023:
 * Learning C++ and taking Calculus 2 at Lone Star College
 * Working at iCode
-* Learning JUCE for vst plugins and building a multiband saturator or something
+* Learning JUCE for vst plugins and building a multiband saturator
 * Learning more about the Hugging Face APIs
+
+Fall 2023:
+* Taking CSCE 120 and 222
+* TBD!
 
 <!--
 **GageHoweTamu/GageHoweTamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
