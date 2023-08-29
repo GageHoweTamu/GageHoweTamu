@@ -1,16 +1,16 @@
 ### Hi there 👋
 I'm Gage, a student at Texas A&M. I love all things computers, games, and music/sound design.
   
-R.A.G.E. Space Shooter (Enemy AI, Asset Creation)\
+R.A.G.E. Space Shooter (Enemy AI, Asset Creation)
 https://github.com/Redfrog80/Capsher-Game-Jam-Spring-2023
   
-Sidechain Frequency Modulation VST Plugin (Unreleased)\
+Sidechain Frequency Modulation VST Plugin (Unreleased)
 https://github.com/GageHoweTamu/SC-FreqModulator
   
-Python Web App powered by ChatGPT\
+Python Web App powered by ChatGPT
 https://github.com/GageHoweTamu/GPT-web-service
 
-Virtual Esports Coach\
+Virtual Esports Coach
 https://github.com/aggie-coding-club/Virtual-eSports-Coach
   
 
