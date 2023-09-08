@@ -1,21 +1,22 @@
-### Hi there 👋
-I'm Gage, a student at Texas A&M. I love all things computers, games, and music/sound design.
+# Hello there 👋
+
+### I'm Gage, a student at Texas A&M. I love all things computers, games, and music/sound design.
   
-R.A.G.E. Space Shooter (Enemy AI, Asset Creation)
+###R.A.G.E. Space Shooter (Enemy AI, Asset Creation)
 https://github.com/Redfrog80/Capsher-Game-Jam-Spring-2023
   
-Sidechain Frequency Modulation VST Plugin (Unreleased)
+###Sidechain Frequency Modulation VST Plugin (Unreleased)
 https://github.com/GageHoweTamu/SC-FreqModulator
   
-Python Web App powered by ChatGPT
+###Python Web App powered by ChatGPT
 https://github.com/GageHoweTamu/GPT-web-service
 
-Virtual Esports Coach
+###Virtual Esports Coach
 https://github.com/aggie-coding-club/Virtual-eSports-Coach
   
 
 
-Spring 2023:
+##Spring 2023:
 * AusSim, a game in-progress with the Texas A&M Game Developers organization.
 * The Brute VR, a game in-progress with the Aggie Coding Club.
 * Multiple learning-focused browser extension projects using JavaScript and TamperMonkey with the Aggie Coding Club.
@@ -23,7 +24,7 @@ Spring 2023:
 
 
 
-Fall 2023:
+##Fall 2023:
 * Taking CSCE 120 and 222
 * TBD!
 
