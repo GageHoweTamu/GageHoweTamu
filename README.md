@@ -5,6 +5,7 @@ I'm Gage, a CS student at Texas A&M. I love all things software, games, and soun
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gage-howe-85b049211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gage-howe-85b049211/" height="30" width="40" /></a>
+  
 <a href="https://www.leetcode.com/gage howe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gage howe" height="30" width="40" /></a>
 </p>
 
@@ -13,7 +14,6 @@ I'm Gage, a CS student at Texas A&M. I love all things software, games, and soun
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gagehowetamu&show_icons=true&locale=en&layout=compact" alt="gagehowetamu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gagehowetamu&show_icons=true&locale=en" alt="gagehowetamu" /></p>
 
 ## Main projects
 
