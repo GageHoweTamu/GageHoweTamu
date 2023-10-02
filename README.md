@@ -1,5 +1,7 @@
 # Hello there 👋
 
+![](https://gitwar.herokuapp.com/badge?username=GageHoweTamu)
+
 I'm Gage, a CS student at Texas A&M. I love all things software, games, and sound design.
 
 <h3 align="left">Connect with me:</h3>
@@ -46,6 +48,8 @@ https://github.com/aggie-coding-club/Virtual-eSports-Coach
 * Finishing neural network from scratch, with HuggingFace
 
 <!--
+
+<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/skills?username=[YOUR_LINKEDIN_USERNAME]" />
 
 Here are some ideas to get you started:
 
