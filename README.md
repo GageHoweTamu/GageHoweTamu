@@ -2,7 +2,7 @@
 
 ![](https://gitwar.herokuapp.com/badge?username=GageHoweTamu)
 
-I'm Gage, a CS student at Texas A&M. I love all things software, games, and sound design.
+### I'm Gage, a CS student at Texas A&M. I love all things software, games, and sound design.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
