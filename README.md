@@ -2,8 +2,7 @@
 
 software, games, and sound design
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://linkedin.com/in/gage-howe-85b049211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gage-howe-85b049211/" height="30" width="40" /></a>
   
 <a href="https://www.leetcode.com/gage howe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gage howe" height="30" width="40" /></a>
@@ -30,6 +29,16 @@ https://github.com/aggie-coding-club/Virtual-eSports-Coach
 
 </p>
 
+# 📊 Stats
+![](https://github-readme-stats.vercel.app/api?username=gagehowetamu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gagehowetamu&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gagehowetamu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🪐 Repos
+![](https://github-contributor-stats.vercel.app/api?username=gagehowetamu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=gagehowetamu&icon=0&color=6)](https://visitcount.itsvg.in)
 
 TAMU Courses completed
 * Intro to Python (ENGR102)
