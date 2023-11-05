@@ -1,8 +1,6 @@
-# Hello there 👋
-
 ![](https://gitwar.herokuapp.com/badge?username=GageHoweTamu)
 
-### I'm Gage, a CS student at Texas A&M. I love all things software, games, and sound design.
+software, games, and sound design
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,6 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gagehowetamu&show_icons=true&locale=en&layout=compact" alt="gagehowetamu" /></p>
 
+[![](https://visitcount.itsvg.in/api?id=GageHoweTamu&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 ## Main projects
 
