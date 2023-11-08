@@ -5,11 +5,8 @@ software, games, and sound design
 
 <a href="https://linkedin.com/in/gage-howe-85b049211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gage-howe-85b049211/" height="30" width="40" /></a>
 
-Python space game
-https://github.com/Redfrog80/Capsher-Game-Jam-Spring-2023
-  
-Sidechain Frequency Modulation VST Plugin (Unreleased)
-https://github.com/GageHoweTamu/SC-FreqModulator
+Project manager for Hyper Lethal
+https://github.com/aggie-coding-club/Hyper-Lethal
   
 Python Web App powered by ChatGPT
 https://github.com/GageHoweTamu/GPT-web-service
