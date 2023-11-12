@@ -16,12 +16,12 @@ https://github.com/aggie-coding-club/Virtual-eSports-Coach
 
 </p>
 
-# 📊 Stats
+#  Stats
 ![](https://github-readme-stats.vercel.app/api?username=gagehowetamu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gagehowetamu&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gagehowetamu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🪐 Repos
+###  Repos
 ![](https://github-contributor-stats.vercel.app/api?username=gagehowetamu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
