@@ -1,8 +1,5 @@
 ![](https://gitwar.herokuapp.com/badge?username=GageHoweTamu)
 
-software, games, and sound design
-
-
 <a href="https://linkedin.com/in/gage-howe-85b049211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gage-howe-85b049211/" height="30" width="40" /></a>
 
 Project manager for Hyper Lethal
@@ -23,9 +20,6 @@ https://github.com/aggie-coding-club/Virtual-eSports-Coach
 
 ###  Repos
 ![](https://github-contributor-stats.vercel.app/api?username=gagehowetamu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=gagehowetamu&icon=0&color=6)](https://visitcount.itsvg.in)
 
 TAMU Courses completed
 * Intro to Python (ENGR102)
