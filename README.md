@@ -17,9 +17,6 @@ https://github.com/aggie-coding-club/Virtual-eSports-Coach
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gagehowetamu&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gagehowetamu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###  Repos
-![](https://github-contributor-stats.vercel.app/api?username=gagehowetamu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ### TAMU Courses completed
 * Intro to Python (ENGR102)
 * Program Design and Concepts (CSCE120)
