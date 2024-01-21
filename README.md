@@ -13,15 +13,14 @@
 <a href="https://linkedin.com/in/gage-howe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gage-howe" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gage howe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gage howe" height="30" width="40" /></a>  
 
-### Courses completed
+### Relevant coursework
 * Intro to Python (ENGR102)
 * Program Design and Concepts (CSCE120)
 * Calculus 1 & 2, Linear Algebra
-* Discrete Structures for Computing
-* Engineering Physics
-
-### Next semester:
+* Discrete Structures for Computing (CSCE222)
 * Data Structures and Algorithms (CSCE221)
+* Computer Organization (CSCE312)
+* Programming Languages (CSCE314)
 
 ### Team projects:
 
