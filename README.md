@@ -25,7 +25,8 @@
 ### Team projects:
 
 * Project manager for Hyper Lethal    https://github.com/aggie-coding-club/Hyper-Lethal    
-* Virtual Esports Coach     https://github.com/aggie-coding-club/Virtual-eSports-Coach  
+* Virtual Esports Coach     https://github.com/aggie-coding-club/Virtual-eSports-Coach
+* Web Scraping Application    https://github.com/aggie-coding-club/Web-Scraping-Application
 
 ### Personal projects:
 * See pins below!
