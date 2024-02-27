@@ -13,6 +13,12 @@
 <a href="https://linkedin.com/in/gage-howe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gage-howe" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gage howe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gage howe" height="30" width="40" /></a>  
 
+### Top projects
+
+* Constellation.md - https://github.com/GageHoweTamu/Constellation.md
+* Sidebox - https://github.com/GageHoweTamu/Sidebox
+* PWGen - https://github.com/GageHoweTamu/PWGen
+
 ### Relevant coursework
 * Intro to Python (ENGR102)
 * Program Design and Concepts (CSCE120)
@@ -22,13 +28,10 @@
 * Computer Organization (CSCE312)
 * Programming Languages (CSCE314)
 
-### Team projects:
+### Team projects
 
 * Project manager for Hyper Lethal    https://github.com/aggie-coding-club/Hyper-Lethal    
 * Virtual Esports Coach     https://github.com/aggie-coding-club/Virtual-eSports-Coach
 * Web Scraping Application    https://github.com/aggie-coding-club/Web-Scraping-Application
-
-### Personal projects:
-* See pins below!
 
 https://github.com/GageHoweTamu/Markdown-graph-simulation-/assets/116420022/34a923ab-5800-4d36-b4b6-8ad1778d06bd
