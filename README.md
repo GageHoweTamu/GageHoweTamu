@@ -15,9 +15,10 @@
 
 ### Top projects
 
-* Constellation.md - https://github.com/GageHoweTamu/Constellation.md
-* Sidebox - https://github.com/GageHoweTamu/Sidebox
-* PWGen - https://github.com/GageHoweTamu/PWGen
+* [Constellation.md](https://github.com/GageHoweTamu/Constellation.md) - A physics-driven graph of the Markdown files and local links in a user-specified directory. This can be used as a simple file browser.
+* [Sidebox](https://github.com/GageHoweTamu/Sidebox) - An audio plugin in VST and CLAP formats. Sidebox combines signals in a variety of ways, including addition, ring modulatio,n and phase modulation.
+* [PWGen](https://github.com/GageHoweTamu/PWGen) - A browser extension that procedurally generates and recovers unique passwords for every website you visit
+* [Life and Automata](https://github.com/GageHoweTamu/Life-Automata-3D) - A 3D version of [The Life Engine,](https://thelifeengine.net/) simulating multi-cellular life and written in pure Rust.
 
 ### Relevant coursework
 * Intro to Python (ENGR102)
