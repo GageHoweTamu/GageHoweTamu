@@ -40,8 +40,8 @@ https://badgen.net/#github/releases/micromatch/micromatch
 
 ### Team projects
 
-* Project manager for Hyper Lethal    https://github.com/aggie-coding-club/Hyper-Lethal    
-* Virtual Esports Coach     https://github.com/aggie-coding-club/Virtual-eSports-Coach
-* Web Scraping Application    https://github.com/aggie-coding-club/Web-Scraping-Application
+* [Project manager for Hyper Lethal](https://github.com/aggie-coding-club/Hyper-Lethal   ) 
+* [Virtual Esports Coach](https://github.com/aggie-coding-club/Virtual-eSports-Coach)
+* [Web Scraping Application](https://github.com/aggie-coding-club/Web-Scraping-Application)
 
 https://github.com/GageHoweTamu/Markdown-graph-simulation-/assets/116420022/34a923ab-5800-4d36-b4b6-8ad1778d06bd
