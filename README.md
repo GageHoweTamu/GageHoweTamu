@@ -24,6 +24,7 @@ https://badgen.net/#github/releases/micromatch/micromatch
 * [Sidebox](https://github.com/GageHoweTamu/Sidebox) - An audio plugin in VST and CLAP formats. Sidebox combines signals in a variety of ways, including addition, ring modulatio,n and phase modulation.
 * [PWGen](https://github.com/GageHoweTamu/PWGen) - A browser extension that procedurally generates and recovers unique passwords for every website you visit
 * [Life and Automata](https://github.com/GageHoweTamu/Life-Automata-3D) - A 3D version of [The Life Engine,](https://thelifeengine.net/) simulating multi-cellular life and written in pure Rust.
+* Coming soon: ULI: a universal app store and software installer for Linux
 
 ### Relevant coursework
 * Intro to Python (ENGR102)
