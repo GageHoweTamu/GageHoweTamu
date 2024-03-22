@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gage</h1>
-<h3 align="center">Texas A&M CS student from Houston, TX - Seeking internships for summer 2024/2025</h3>
+<h3 align="center">Texas A&M CS student from Houston, TX - Seeking internships for summer 2024 and 2025</h3>
 
 <!--
 [//]: #  (https://codeforces.com/profile/ghowe)
@@ -16,8 +16,6 @@ https://badgen.net/#github/releases/micromatch/micromatch
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-<a href="https://linkedin.com/in/gage-howe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gage-howe" height="30" width="40" /></a>
-
 ### Recent projects
 
 * [ULI](https://github.com/users/GageHoweTamu/projects/2) - Universal Linux Installer/App Store. Using a custom API and desktop app to give users a seamless, linux-integrated software store experience
@@ -28,7 +26,6 @@ https://badgen.net/#github/releases/micromatch/micromatch
 * Coming soon: ULI: a universal app store and software installer for Linux
 
 ### Relevant coursework
-* Intro to Python (ENGR102)
 * Program Design and Concepts (CSCE120)
 * Calculus 1 & 2, Linear Algebra
 * Discrete Structures for Computing (CSCE222)
@@ -45,4 +42,7 @@ https://badgen.net/#github/releases/micromatch/micromatch
 https://github.com/GageHoweTamu/Life3D/assets/116420022/ae5d4335-b471-45fc-9828-0f89dd35b316
 
 https://github.com/GageHoweTamu/Markdown-graph-simulation-/assets/116420022/34a923ab-5800-4d36-b4b6-8ad1778d06bd
+
+<a href="https://linkedin.com/in/gage-howe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gage-howe" height="30" width="40" /></a>
+
 
