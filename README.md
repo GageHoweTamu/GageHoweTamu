@@ -18,7 +18,7 @@ https://badgen.net/#github/releases/micromatch/micromatch
 
 <a href="https://linkedin.com/in/gage-howe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gage-howe" height="30" width="40" /></a>
 
-### Top projects
+### Recent projects
 
 * [ULI](https://github.com/users/GageHoweTamu/projects/2) - Universal Linux Installer/App Store. Using a custom API and desktop app to give users a seamless, linux-integrated software store experience
 * [Constellation.md](https://github.com/GageHoweTamu/Constellation.md) - A physics-driven graph of the Markdown files and local links in a user-specified directory. This can be used as a simple file browser.
