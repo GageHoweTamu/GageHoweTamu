@@ -44,4 +44,4 @@ https://github.com/GageHoweTamu/Markdown-graph-simulation-/assets/116420022/34a9
 
 <a href="https://linkedin.com/in/gage-howe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gage-howe" height="30" width="40" /></a>
 
-
+[gagehowe.com](gagehowe.com)
