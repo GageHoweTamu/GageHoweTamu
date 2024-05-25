@@ -24,14 +24,6 @@ https://badgen.net/#github/releases/micromatch/micromatch
 * [PWGen](https://github.com/GageHoweTamu/PWGen) - A browser extension that procedurally generates and recovers unique passwords for every website you visit
 * [Life and Automata](https://github.com/GageHoweTamu/Life-Automata-3D) - A 3D version of [The Life Engine,](https://thelifeengine.net/) simulating multi-cellular life and written in pure Rust.
 
-### Relevant coursework
-* Program Design and Concepts (CSCE120)
-* Calculus 1 & 2, Linear Algebra
-* Discrete Structures for Computing (CSCE222)
-* Data Structures and Algorithms (CSCE221)
-* Computer Organization (CSCE312)
-* Programming Languages (CSCE314)
-
 ### Team projects
 
 * [Project manager for Hyper Lethal](https://github.com/aggie-coding-club/Hyper-Lethal) - A top-down game using Unity 3D - Won $100 for Aggie Coding Club Best Project Manager (1 of 3)
