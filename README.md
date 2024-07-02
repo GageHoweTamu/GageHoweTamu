@@ -26,8 +26,8 @@ https://badgen.net/#github/releases/micromatch/micromatch
 
 ### Team projects
 
-* [Project manager for Hyper Lethal](https://github.com/aggie-coding-club/Hyper-Lethal) - A top-down game using Unity 3D - Won $100 for Aggie Coding Club Best Project Manager (1 of 3)
-* [Virtual Esports Coach](https://github.com/aggie-coding-club/Virtual-eSports-Coach) - A web service for providing Valorant gameplay reccomendations
+* [Project manager for Hyper Lethal](https://github.com/aggie-coding-club/Hyper-Lethal) - A space shooter game using Unity 3D - Won $100 for Aggie Coding Club Best Project Manager (1 of 3)
+* [Virtual Esports Coach](https://github.com/aggie-coding-club/Virtual-eSports-Coach) - A web service for providing Valorant gameplay recommendations
 * [Web Scraping Application](https://github.com/aggie-coding-club/Web-Scraping-Application) - An open source, user friendly web scraping app
 
 https://github.com/GageHoweTamu/Life3D/assets/116420022/ae5d4335-b471-45fc-9828-0f89dd35b316
