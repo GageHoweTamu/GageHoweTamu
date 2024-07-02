@@ -21,7 +21,7 @@ https://badgen.net/#github/releases/micromatch/micromatch
 * [LTOP](https://github.com/GageHoweTamu/ltop) - A pretty, minimal tui for viewing your computer's network latency and upload/download speed.
 * [Constellation.md](https://github.com/GageHoweTamu/Constellation.md) - A physics-driven graph of the Markdown files and cross-file links in a user-specified directory. This can be used as a simple file browser.
 * [Sidebox](https://github.com/GageHoweTamu/Sidebox) - An audio plugin in VST and CLAP formats. Sidebox combines signals in a variety of ways, including addition, ring modulation and phase modulation.
-* [PWGen](https://github.com/GageHoweTamu/PWGen) - A browser extension that procedurally generates and recovers unique passwords for every website you visit
+* [PWGen](https://github.com/GageHoweTamu/PWGen) - A cross-platform browser extension that deterministically generates and recovers unique passwords for every website you visit
 * [Life3D](https://github.com/GageHoweTamu/Life-Automata-3D) - A 3D version of [The Life Engine,](https://thelifeengine.net/) simulating multi-cellular life and written in pure Rust.
 
 ### Team projects
