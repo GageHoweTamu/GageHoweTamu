@@ -18,17 +18,14 @@ https://badgen.net/#github/releases/micromatch/micromatch
 
 ### Recent projects
 
+* [Learnix](http://35.225.39.137/) - An interactive platform for learning Linux commands, providing users with lessons and a persistent sandbox Linux environment.
 * [LTOP](https://github.com/GageHoweTamu/ltop) - A pretty, minimal tui for viewing your computer's network latency and upload/download speed.
 * [Constellation.md](https://github.com/GageHoweTamu/Constellation.md) - A physics-driven graph of the Markdown files and cross-file links in a user-specified directory. This can be used as a simple file browser.
 * [Sidebox](https://github.com/GageHoweTamu/Sidebox) - An audio plugin in VST and CLAP formats. Sidebox combines signals in a variety of ways, including addition, ring modulation and phase modulation.
 * [PWGen](https://github.com/GageHoweTamu/PWGen) - A cross-platform browser extension that deterministically generates and recovers unique passwords for every website you visit
 * [Life3D](https://github.com/GageHoweTamu/Life-Automata-3D) - A 3D version of [The Life Engine,](https://thelifeengine.net/) simulating multi-cellular life and written in pure Rust.
-
-### Team projects
-
 * [Hyper Lethal](https://github.com/aggie-coding-club/Hyper-Lethal) - A space shooter game using Unity 3D - Won $100 for Aggie Coding Club Best Project Manager
-* [Virtual Esports Coach](https://github.com/aggie-coding-club/Virtual-eSports-Coach) - A web service for providing Valorant gameplay recommendations
-* [Web Scraping Application](https://github.com/aggie-coding-club/Web-Scraping-Application) - An open source, user friendly web scraping app
+
 
 https://github.com/GageHoweTamu/Life3D/assets/116420022/ae5d4335-b471-45fc-9828-0f89dd35b316
 
@@ -36,4 +33,4 @@ https://github.com/GageHoweTamu/Markdown-graph-simulation-/assets/116420022/34a9
 
 <a href="https://linkedin.com/in/gage-howe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gage-howe" height="30" width="40" /></a>
 
-[gagehowe.com](gagehowe.com)
+[gagehowe.dev](gagehowe.dev)
